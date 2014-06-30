@@ -1,0 +1,4 @@
+IdleGame
+========
+
+Simple Idle Game
